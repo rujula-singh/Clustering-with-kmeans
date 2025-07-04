@@ -1,5 +1,5 @@
 
-# 🛍️ Mall Customer Segmentation using K-Means Clustering
+#  Mall Customer Segmentation using K-Means Clustering
 
 This project applies **K-Means clustering** to segment customers based on their **Annual Income** and **Spending Score** from the popular Mall Customers dataset. It includes data preprocessing, visualization, optimal cluster selection using the **Elbow Method** and **Silhouette Score**, and final cluster interpretation.
 
